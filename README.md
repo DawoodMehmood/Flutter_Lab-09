@@ -1,1 +1,1 @@
-Rename the file to main.dart whatever task you wanna run.
+Bring the main.dart file into the lib folder whatever task you wanna run.
